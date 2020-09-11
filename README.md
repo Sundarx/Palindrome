@@ -1,6 +1,6 @@
 # Palindrome
 
-Program reads a line of text and tells if the line is a palindrome. Upper-case and lower-case letters are treated as the same character. Stack only takes non-blank characters into consideration.
+Program uses stacks to read a line of text and tells if the line is a palindrome. Upper-case and lower-case letters are treated as the same character. Stack only takes non-blank characters into consideration.
 
 LinkedStackDS has a private inner class called StackNode.
 
